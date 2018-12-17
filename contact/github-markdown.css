@@ -697,6 +697,31 @@
 .markdown-body hr {
   border-bottom-color: #eee;
 }
+/* link settings */
+
+a:link {
+  color: brown; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: brown;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9F2C2C;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #9F2C2C;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
 
 /* Add a black background color to the top navigation */
